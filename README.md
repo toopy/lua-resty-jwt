@@ -24,7 +24,7 @@ lua-resty-jwt - [JWT](http://self-issued.info/docs/draft-jones-json-web-token-01
 # Version
 
 
-0.2.2
+0.2.3
 
 
 # Table of Contents

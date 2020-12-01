@@ -8,7 +8,7 @@ local ffi_new = ffi.new
 local ffi_string = ffi.string
 local ffi_cast = ffi.cast
 local _C = ffi.C
-local _M = { _VERSION = "0.2.2" }
+local _M = { _VERSION = "0.2.3" }
 local ngx = ngx
 
 

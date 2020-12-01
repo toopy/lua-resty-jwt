@@ -5,7 +5,7 @@ local evp = require "resty.evp"
 local hmac = require "resty.hmac"
 local resty_random = require "resty.random"
 
-local _M = {_VERSION="0.2.2"}
+local _M = {_VERSION="0.2.3"}
 
 local mt = {
     __index = _M
